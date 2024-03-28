@@ -1,0 +1,14 @@
+{
+  "name": "express-app-starter",
+  "version": "1.0.1",
+  "description": "A command to create an express app",
+  "main": "index.js",
+  "bin": {
+    "express-app-starter": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arshid",
+  "license": "ISC"
+}
