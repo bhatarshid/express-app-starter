@@ -58,7 +58,8 @@ The package also includes sample code snippets that can be found in the src dire
 - .env: Sample environment configuration file.
 - .gitignore: Sample Git ignore file.
 - package.json: Sample package.json file with dependencies and scripts.
-Contributing
+
+## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
 
 ## License
